@@ -1,6 +1,5 @@
 'use client'
 import React from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 
 const Footer = () => {
@@ -8,7 +7,6 @@ const Footer = () => {
     <section className="bottom-0 w-screen shadow-xl p-10 mt-10 mb-10 text-white max-sm:flex-wrap flex gradient_blue gap-2 flex-between">
             <div className='sm:w-1/4'>
                 <h1 className='text-2xl'><b>Contact</b></h1>
-                <FontAwesomeIcon icon="fa-solid fa-phone" />
                 <p><b>+351 920 527 602 </b></p>
                 <p><b>+91 9495153333 </b></p>
                 <p onClick={()=>window.location='mailto:bijuncp@gmail.com'} className='hover:cursor-pointer hover:underline'><b>bijunarayan2022@gmail.com</b></p>
