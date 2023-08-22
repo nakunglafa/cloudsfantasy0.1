@@ -12,8 +12,8 @@ const Footer = () => {
                 <p onClick={()=>window.location='mailto:bijuncp@gmail.com'} className='hover:cursor-pointer hover:underline'><b>bijunarayan2022@gmail.com</b></p>
             </div>
             <div className='sm:w-1/4'>
+            <h2 className='text-2xl'><b>Address:</b></h2>
                 <p>
-                    <h2 className='text-2xl'><b>Address:</b></h2>
                     <b>Rua Rosa Damasceno, No: 10 - Arroios <br />Lisboa 1900-396, Portugal</b>
                 </p>
             </div>

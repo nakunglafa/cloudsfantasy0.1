@@ -16,11 +16,11 @@ const Nav = () => {
 
 
             <div className='sm:w-4/5'>
-            <h1 className=' head_text mx-10 mb-10 text-white'>CLOUDS FANTASY | HUMAN RESOURCES MAN POWER CONSULTINCY TOURS AND TRAVEL</h1>
+                <h1 className=' head_text mx-10 mb-10 text-white'>CLOUDS FANTASY | HUMAN RESOURCES MAN POWER CONSULTINCY TOURS AND TRAVEL</h1>
             </div>
 
 
-            </div>
+      </div>
     </section>
   )
 }
